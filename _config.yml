@@ -53,7 +53,7 @@ google_site_verification: # fill in to your verification string
 # The end of `jekyll-seo-tag` settings
 
 google_analytics:
-  id: # fill in your Google Analytics ID
+  id: G-NFBDMKHMPL # fill in your Google Analytics ID
 
 # Prefer color scheme setting.
 #
@@ -93,13 +93,13 @@ comments:
   # Giscus options › https://giscus.app
   giscus:
     repo: pup-paw/pup-paw.github.io # <gh-username>/<repo>
-    repo_id:
+    repo_id: R_kgDOKU-1UQ
     category: Comments
-    category_id:
-    mapping: # optional, default to 'pathname'
-    input_position: # optional, default to 'bottom'
-    lang: # optional, default to the value of `site.lang`
-    reactions_enabled: # optional, default to the value of `1`
+    category_id: DIC_kwDOKU-1Uc4CZaH8
+    mapping: pathname # optional, default to 'pathname'
+    input_position: bottom # optional, default to 'bottom'
+    lang: ko # optional, default to the value of `site.lang`
+    reactions_enabled: 1 # optional, default to the value of `1`
 
 # Self-hosted static assets, optional › https://github.com/cotes2020/chirpy-static-assets
 assets:
