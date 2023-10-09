@@ -26,10 +26,10 @@ description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "https://pup-paw.github.io"
+url: "https://yaho99.github.io"
 
 github:
-  username: pup-paw # change to your github username
+  username: yaho99 # change to your github username
 
 twitter:
   username: twitter_username # change to your twitter username
@@ -42,7 +42,7 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/pup-paw # change to your github homepage
+    - https://github.com/yaho99 # change to your github homepage
     # Uncomment below to add more social links
     - https://www.facebook.com/profile.php?id=100090678979933&mibextid=LQQJ4d
     - https://www.linkedin.com/in/지연-최-1b324a25b
@@ -92,7 +92,7 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: pup-paw/pup-paw.github.io # <gh-username>/<repo>
+    repo: yaho99/yaho99.github.io # <gh-username>/<repo>
     repo_id: R_kgDOKU-1UQ
     category: Comments
     category_id: DIC_kwDOKU-1Uc4CZaH8
