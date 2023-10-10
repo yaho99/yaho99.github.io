@@ -38,14 +38,14 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: 야호
-  email: wldusdl0310@gmail.com # change to your email address
+  email: yaho1999s@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/yaho1999s # change to your twitter homepage
     - https://github.com/yaho99 # change to your github homepage
     # Uncomment below to add more social links
     - https://www.facebook.com/profile.php?id=100090678979933&mibextid=LQQJ4d
-    - https://www.linkedin.com/in/지연-최-1b324a25b
+    - https://www.linkedin.com/in/yaho99
 
 google_site_verification: # fill in to your verification string
 
